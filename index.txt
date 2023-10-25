@@ -32,11 +32,11 @@
       <a href="video.html">
         <div class="shadow-button"  style="background-color: rgb(46, 43, 43)">        
             <div>
-              Послухай/ подивись
+              Послухай
             </div>        
         </div>
       </a>
       </ul>
     </nav>
   </header>
-явамоатоіволтов
+
