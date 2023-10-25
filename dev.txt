@@ -1,6 +1,4 @@
 HEAD
 hhhhh
 fff
-gg
-vv
  dev
